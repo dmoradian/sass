@@ -1,0 +1,12 @@
+$color : lightblue;
+
+body{
+    background-color: $color;
+}  
+
+.test {
+    background-color: $color;
+    .child{
+        color: $color; 
+    }
+}

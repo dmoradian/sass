@@ -1,0 +1,11 @@
+body {
+  background-color: lightblue;
+}
+
+.test {
+  background-color: lightblue;
+}
+
+.test .child {
+  color: lightblue;
+}
